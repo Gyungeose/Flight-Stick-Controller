@@ -1,5 +1,3 @@
-# HOTAS Flight Controller
-
 ![Status](https://img.shields.io/badge/Status-Planning-lightgrey?style=flat)
 ![Firmware](https://img.shields.io/badge/Firmware-Arduino_(ATmega32U4)-00979D?style=flat&logo=arduino&logoColor=white)
 ![CAD](https://img.shields.io/badge/CAD-SolidWorks-DA291C?style=flat)

@@ -1,5 +1,3 @@
-# Wiring
-
 ## Prototype (Phase 0)
 
 | Component | Pro Micro pin | Notes |

@@ -1,4 +1,3 @@
-# Design Decisions
 
 Each decision gets recorded with the options considered and why one was chosen. This is the part interviewers and admissions readers care about most.
 
