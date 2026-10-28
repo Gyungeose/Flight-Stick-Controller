@@ -53,6 +53,8 @@ HOTAS-Flight-Controller/
 
 ## Documentation
 
+- [Quest Log](Quest%20Log/00%20%E2%80%94%20Quest%20Map.md): learning path
+- [Vision](Documentation/Vision.md)
 - [Bill of Materials](Documentation/BOM.md)
 - [Wiring](Documentation/Wiring.md)
 - [Design Decisions](Documentation/Design%20Decisions.md)

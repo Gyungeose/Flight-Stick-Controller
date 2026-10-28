@@ -16,11 +16,11 @@ Set up the repo and plan the build.
 ## What I did
 
 - Created the repo and the Obsidian project folder
-- Picked the stack: Pro Micro + Arduino Joystick library, SolidWorks, 3D printing at SGU
+- Tools: SolidWorks for CAD, 3D printing (hopefully at SGU), code TBD as I learn
 - Wrote the roadmap (proof of concept → throttle → gimbal → grip → Hall upgrade)
 
 ## Next step
 
 - Check what printer SGU's medical illustration area has (FDM vs resin) and whether personal projects are allowed
-- Order Phase 0 parts
+- Research what parts Phase 0 actually needs, and why
 - The ECG project stays the priority. This one is for weekends.
