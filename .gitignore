@@ -1,0 +1,18 @@
+# SolidWorks temp / lock files
+~$*
+*.SLDBAK
+*.swbak
+# Fusion 360 / general backups
+*.bak
+*.tmp
+# Slicer output (regenerate from STEP/STL)
+*.gcode
+# Arduino build output
+build/
+*.hex
+*.elf
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.obsidian/
